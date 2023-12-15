@@ -8,17 +8,17 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Green
-    second: {fileID: 2100000, guid: 0b461124b69cbfd4d812cc7f0247361d, type: 2}
+    second: {fileID: 2100000, guid: 96d37781046754d46a4f41464ccfd6fe, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Red
-    second: {fileID: 2100000, guid: 0b461124b69cbfd4d812cc7f0247361d, type: 2}
+    second: {fileID: 2100000, guid: 16fc2eb83ae06db49b6447061985bc29, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Red.003
-    second: {fileID: 2100000, guid: 0b461124b69cbfd4d812cc7f0247361d, type: 2}
+    second: {fileID: 2100000, guid: 16fc2eb83ae06db49b6447061985bc29, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
